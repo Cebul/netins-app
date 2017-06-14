@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #222;
+}
+.navbar-brand span {
+  font-size: 35px;
+  float: left;
+}
+.navbar-header {
+  height: 70px;
+}
+.navbar-brand h3 {
+  float:left;
+  margin-top: 5px;
+  margin-left: 10px;
+  font-family: 'Pangolin', cursive;
+}
+footer p {
+  text-align: center;
+  color: #fff;
+}
+.employ-delete {
+  height: 30px;
+  width: 30px;
+  font-size: 20px;
+}
+.emp-addheading:hover {
+  cursor: pointer;
+}
+.interface h3 {
+  font-family: 'Pangolin', cursive;
+}
